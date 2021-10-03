@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 
 # LINKS SECTION
-Link to GitHub Repository: https://github.com/ManoLo2ManoLo/Work-Day-Scheduler.git
+Link to GitHub Repository: https://github.com/ManoLo2ManoLo/Work-Day-Scheduler.git <br />
 Link to Application: https://manolo2manolo.github.io/Work-Day-Scheduler/
 
 # PURPOSE OF APPLICATION
@@ -23,12 +23,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 This code had a starter code provdied by Rutger Coding Bootcamp. It was edit and revised by Manuel Canas-Menendez to reach its full potential as a day planner.
 
 # NECESSARY FILES
-index.html (the structure of the webpage)
-    assets folder
-        css folder 
-            style.css (the styling of the webpage)
-        js folder
-            script.js (the functionality of the webpage)
+index.html (the structure of the webpage) <br />
+-assets folder <br />
+--css folder <br />
+---style.css (the styling of the webpage) <br />
+--js folder <br />
+---script.js (the functionality of the webpage)
 
 # SCREENSHOTS
 

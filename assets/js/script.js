@@ -29,7 +29,6 @@ function inputPlanner() {
 
         $(timeClass).on("click", function(event){
             event.preventDefault();
-
             var plans = $(timeID).val();
             localStorage.setItem(timeToString, plans);
         })
